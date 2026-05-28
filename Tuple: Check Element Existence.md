@@ -22,6 +22,7 @@ print('8' in tuple_)
 
 <img width="393" height="122" alt="image" src="https://github.com/user-attachments/assets/b58ff994-4dfc-4015-8858-f201d61cc0e5" />
 
-## ResultSuccessfully wrote a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
+## Result
+Successfully wrote a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
 
 
